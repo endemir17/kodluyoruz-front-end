@@ -1,2 +1,2 @@
 # kodluyoruz-front-end
-Kadoluyoruz eğitimi
+Kadluyoruz eğitimi
